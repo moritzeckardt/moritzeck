@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moritz
-- 👀 I’m interested in computer science & economy
+- 👀 I’m interested in computer science & finance
 - 🌱 I’m currently expanding my skills
 - 💞️ I’m willing to collaborate on exciting projects
 - 📫 How to reach me: eckardt.mo@gmail.com
